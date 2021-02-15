@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\TripletCounter\TripletCounter\bin\Debug\TripletCounter.exe.config
+C:\Users\Admin\source\repos\TripletCounter\TripletCounter\bin\Debug\TripletCounter.exe
+C:\Users\Admin\source\repos\TripletCounter\TripletCounter\bin\Debug\TripletCounter.pdb
+C:\Users\Admin\source\repos\TripletCounter\TripletCounter\obj\Debug\TripletCounter.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\TripletCounter\TripletCounter\obj\Debug\TripletCounter.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\TripletCounter\TripletCounter\obj\Debug\TripletCounter.exe
+C:\Users\Admin\source\repos\TripletCounter\TripletCounter\obj\Debug\TripletCounter.pdb

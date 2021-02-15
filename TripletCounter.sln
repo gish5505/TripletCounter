@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TripletCounter", "TripletCounter\TripletCounter.csproj", "{26622CD4-928A-4C62-83C6-F559550ECDBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26622CD4-928A-4C62-83C6-F559550ECDBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26622CD4-928A-4C62-83C6-F559550ECDBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26622CD4-928A-4C62-83C6-F559550ECDBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26622CD4-928A-4C62-83C6-F559550ECDBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B646C67A-1879-4709-98F6-1EF5F55B7FD5}
+	EndGlobalSection
+EndGlobal
